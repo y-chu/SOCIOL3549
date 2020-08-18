@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  /Users/yc/Dropbox/OSU/Teaching/3549 STATISTICS/SOCIOL3549/Stata example/Read data.log
+  log type:  text
+ opened on:  18 Aug 2020, 01:08:38
+
+. 
+. //load local GSS data file
+. use "GSS Data/2012 GSS Data.dta", clear
+
+. 
+end of do-file
+
+. log close
+      name:  <unnamed>
+       log:  /Users/yc/Dropbox/OSU/Teaching/3549 STATISTICS/SOCIOL3549/Stata example/Read data.log
+  log type:  text
+ closed on:  18 Aug 2020, 01:16:01
+---------------------------------------------------------------------------------------------------------------------------------------
