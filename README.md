@@ -1,9 +1,18 @@
-# Lab/Recitation for Sociology 3549
+# Stats resource for social science
 Yue Chu
 
-Last update: 2020-08-15
+Last update: 2022-02-11
 
-This site is created for recitation for Sociology 3549.
+This repository provides resources for learning statistics programs, with a particular focus on the field of social science. It covers programming languages including Stata, R, and Python, with in and outside
+
+# Resources
+
+* **IPR Stata user group, R user group** 
+Highly recommended! The groups are led by Jason Thomas, who is super knowledgeable, helpful, and lovely. The user group meets via Zoom periodically for presentations and discussion of programming, or via Microsoft Teams to setup up chat rooms for posting questions, requesting help, sharing tips, and general discussion about the specific software. Please contact Jason Thomas (thomas.3912@osu.edu) if interested in either / both groups.
+ 
+* [**Statistical consulting service by OSU Statistics Department**](https://stat.osu.edu/scs/students)  
+Semester-long consulting service with grad student from the statistics department. It works best if you need regular help with analysis/coding, might not work for occasional quick questions or advanced model development. You need to register for STAT5760 and describe your needs, they will assign a grad student to work with you for max 17hr throughout the semester. This seems to be getting  more and more popular, so plan ahead and register early if you need it. 
+
 
 # Resources to help you learn and use Stata
 
